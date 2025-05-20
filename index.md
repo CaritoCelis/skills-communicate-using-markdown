@@ -8,3 +8,7 @@ Se inicializó un repositorio Git vacío en /Users/skills/Projects/recipe-reposi
 `` javascript
 var myVar = "¡Hola, mundo!";
 ```
+Tareas terminadas
+- [x] Terminar informe de Fullstack
+- [ ] Estudiar bases de datos
+- [ ] crear ppt de Ingenieria de Software
