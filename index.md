@@ -1,2 +1,3 @@
-# Prueba 1
-## prueba 2
+# Letra grande
+## letra pequeña
+![Imagen](https://octodex.github.com/images/yaktocat.png)
